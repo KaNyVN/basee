@@ -1,0 +1,21 @@
+# Dart / Flutter
+.dart_tool/
+.packages
+.pub/
+build/
+coverage/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.iml
+.idea/
+.vscode/
+# Generated platform files (created with flutter create .)
+android/
+ios/
+linux/
+macos/
+windows/
+web/
+# Firebase configuration (do not commit keys generated for personal accounts)
+firebase_options.dart
+lib/firebase_options.dart
